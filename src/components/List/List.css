@@ -1,0 +1,8 @@
+.list-of-expenses-block {
+    margin-bottom: 20px;
+}
+
+
+.list-of-expenses-block li:last-of-type {
+    margin-bottom: 0;
+}

@@ -1,0 +1,58 @@
+.question-block {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.add-expenses-block {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+label {
+    margin-bottom: .6rem;
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 1.6;
+    color: #222;
+}
+
+.add-expenses-input {
+    margin-bottom: 20px; 
+    height: 38px;
+    padding: 6px 10px;
+    background-color: #fff;
+    border: 1px solid #D1D1D1;
+    border-radius: 4px;
+    box-shadow: none;
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.add-expenses-button {
+    height: 38px;
+    padding: 0 30px;
+    color: #555;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.add-expenses-button:hover {
+    border-color: black;
+}
+
+    

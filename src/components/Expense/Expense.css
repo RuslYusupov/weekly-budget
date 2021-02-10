@@ -1,0 +1,24 @@
+.expense-element {
+    list-style: none;
+    border-bottom: 1px solid #e1e1e1;
+    padding: 1rem 0;
+}
+
+.expense-element-name {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    font-size: 1.5rem;
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+.expense-element-cost {
+    background-color: #004085;
+    padding: 1rem;
+    color: #fff;
+    font-size: 1.5rem;
+    line-height: 1.6;
+    font-weight: 400;
+}
